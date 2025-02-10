@@ -41,5 +41,3 @@ The following is a brief description of the two simulation experiments in the ap
 - This experiment can also select the multi-hole interference experiment in the custom mode, and explore the multi-hole interference situations under various regular or irregular arrangements by customizing the pinhole coordinates (maximum 6, minimum 2), and discover the laws of different interference phenomena. At the same time, the coordinates and amplitude of the light source can be adjusted, and the initial phases of different small holes can be set to enable the experiment to truly simulate various situations under real conditions and achieve precise control and measurement of the light field.
   ![1739204453290_62B3E1A6-2E72-4b34-9647-EECA72DC7EA8](https://github.com/user-attachments/assets/5428c02e-ce7d-4ad3-abe5-505effae728b)
 
-## Other code files
-
