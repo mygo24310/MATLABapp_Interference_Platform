@@ -12,8 +12,8 @@ InterXplore is an interactive MATLAB App designed for simulating Young's Double-
 ## Installation
 Follow these steps to set up and run the app on your local machine, two installation and usage methods applicable to different situations will be provided below.
 1. Open the Project in MATLAB(Using .mlapp files)
-- Visit this code repository and download the latest `total_app.mlapp` file
-- Open MATLAB and use the **App Designer** feature to install and run the `total_app.mlapp` app
+- Visit this code repository and download the latest `Interference Experiment Platform.mlappinstall` file
+- Open MATLAB and use the **App Designer** feature to install and run the `Interference Experiment Platform.mlappinstall` app
 2. Open the Project without MATLAB(Run directly from the installer)
 - If you do not have MATLAB installed on your computer but want to run app directly, you can install `MyAppInstaller_web.exe` from this code repository to install and use the application.
 - The installation process requires an Internet connection. The installer will automatically download the required MATLAB Runtime environment and install the application to the specified directory.
